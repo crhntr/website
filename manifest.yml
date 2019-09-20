@@ -1,4 +1,4 @@
 ---
 applications:
 - name: christopherhunterwebsite
-  memory: 258M
+  memory: 128M

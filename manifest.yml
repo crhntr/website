@@ -1,3 +1,4 @@
 ---
 applications:
-- name: website
+- name: christopherhunterwebsite
+  memory: 258M
